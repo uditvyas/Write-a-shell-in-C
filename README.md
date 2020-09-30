@@ -2,5 +2,3 @@
 # Assignment1
 
 After Cloning the repository in your local machine, run the "make" command in the directory to execute the Makefile. After the execution, navigate to the new directory named Terminal, and inside the directory, run the executable "./terminal" to begin the Terminal. Press Ctrl+C to exit the terminal. After completing the job, navigate back to main repository directory and execute the command "make clean" to delete the Terminal directory and clean the repository.
-
-An example Makefile is provided. Modify it to compile your shell. Dummy files shell.c and ls.c are given here. The main shell binary must be named "shell". Modify ls.c or delete it if not required and put all other files that are there.
